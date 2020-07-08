@@ -5,5 +5,7 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other. 
 (From Wikipedia, the free encyclopedia)
 
+
+
 Loan prediction:
 One of the most poplar practice problem powered by Analytics Vidhya. It's about solving a real life case study of Dream Housing Finance. The company deals in all home loans. They have a presence across all urban, semi-urban and rural areas. Customers first apply for a home loan after that company validates the customer's eligibility. The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling online application form.
