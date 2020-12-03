@@ -266,9 +266,7 @@ The data set allows for several new combinations of attributes and attribute exc
     20. Body mass index
     21. Absenteeism time in hours (target) 
 	
-Citation Request:
-
-Martiniano, A., Ferreira, R. P., Sassi, R. J., & Affonso, C. (2012). Application of a neuro fuzzy network in prediction of absenteeism at work. In Information Systems and Technologies (CISTI), 7th Iberian Conference on (pp. 1-4). IEEE.
+Citation Request: Martiniano, A., Ferreira, R. P., Sassi, R. J., & Affonso, C. (2012). Application of a neuro fuzzy network in prediction of absenteeism at work. In Information Systems and Technologies (CISTI), 7th Iberian Conference on (pp. 1-4). IEEE.
 
 Acknowledgements:
 Professor Gary Johns for contributing to the selection of relevant research attributes.
