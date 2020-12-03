@@ -143,15 +143,11 @@ Turkiye Student Evaluation:
 
 Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}
 
-Citation Request:
-
-If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
+Citation Request: If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
 
 Gunduz, G. & Fokoue, E. (2013). UCI Machine Learning Repository [[Web Link]]. Irvine, CA: University of California, School of Information and Computer Science.
 
-Here is a BiBTeX citation as well:
-
-@misc{GunduzFokoue:2013 ,
+Here is a BiBTeX citation as well: @misc{GunduzFokoue:2013 ,
 author = 'Gunduz, N. and Fokoue, E.',
 year = '2013',
 title = '{UCI} Machine Learning Repository',
