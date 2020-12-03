@@ -96,9 +96,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
     Output variable (based on sensory data):
     12 - quality (score between 0 and 10)
     
-Relevant Papers:
-
-P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.
+Relevant Papers: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.
 In Decision Support Systems, Elsevier, 47(4):547-553, 2009. 
 
 (From https://archive.ics.uci.edu/ml/datasets)
@@ -283,4 +281,4 @@ Adjunct Professor, OB/HR Division
 Sauder School of Business,
 University of British Columbia 
 
-(source: https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)	
+(source: https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
