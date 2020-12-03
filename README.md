@@ -1,5 +1,5 @@
 # Content
-Iris dataset:
+**Iris dataset:**
 
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician, eugenicist, and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.[1] It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species.[2] Two of the three species were collected in the Gaspé Peninsula "all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus".[3] Fisher's paper was published in the journal, the Annals of Eugenics, creating controversy about the continued use of the Iris dataset for teaching statistical techniques today.
 
@@ -8,7 +8,7 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 
 
-Loan prediction:
+**Loan prediction:**
 
 One of the most poplar practice problem powered by Analytics Vidhya. It's about solving a real life case study of Dream Housing Finance. The company deals in all home loans. They have a presence across all urban, semi-urban and rural areas. Customers first apply for a home loan after that company validates the customer's eligibility. The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling online application form.
 
@@ -24,7 +24,7 @@ One of the most poplar practice problem powered by Analytics Vidhya. It's about 
 
 
 
-Big Mart sales:
+**Big Mart sales:**
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store. Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales. Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
 
@@ -51,7 +51,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
 
 
 
-The Boston Housing Dataset:
+**The Boston Housing Dataset:**
 
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA. The following describes the dataset columns:
 
@@ -72,7 +72,7 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 
 
 
-Wine Quality:
+**Wine Quality:**
 
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: [Web Link] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
@@ -103,7 +103,7 @@ In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 
 
-Turkiye Student Evaluation:
+**Turkiye Student Evaluation:**
 
     Attribute Information:
 
@@ -158,7 +158,7 @@ institution = 'University of California, Irvine, School of Information and Compu
 
 
 
-Heights and weights:
+**Heights and weights:**
 
 Human Height and Weight are mostly hereditable, but lifestyles, diet, health and environmental factors also play a role in determining individual's physical characteristics. The dataset below contains 25,000 synthetic records of human heights and weights of 18 years old children. These data were simulated based on a 1993 by a Growth Survey of 25,000 children from birth to 18 years of age recruited from Maternal and Child Health Centres (MCHC) and schools and were used to develop Hong Kong's current growth charts for weight, height, weight-for-age, weight-for-height and body mass index (BMI).
 
@@ -166,7 +166,7 @@ Human Height and Weight are mostly hereditable, but lifestyles, diet, health and
 
 
 
-Black Friday sales:
+**Black Friday sales:**
 
 This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset to explore and expand your feature engineering skills and day to day understanding from multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
 
@@ -176,7 +176,7 @@ Problem: Predict purchase amount.
 
 
 
-Adult income data:
+**Adult income data:**
 
 Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
@@ -209,7 +209,7 @@ Prediction task is to determine whether a person makes over 50K a year.
 
 
 
-Absenteeism at work:
+**Absenteeism at work:**
 
 The data set allows for several new combinations of attributes and attribute exclusions, or the modification of the attribute type (categorical, integer, or real) depending on the purpose of the research.The data set (Absenteeism at work - Part I) was used in academic research at the Universidade Nove de Julho - Postgraduate Program in Informatics and Knowledge Management.
 
